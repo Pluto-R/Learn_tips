@@ -1,0 +1,3 @@
+/home/jqz/Desktop/Learn_tips/build/CMakeFiles/learn.dir
+/home/jqz/Desktop/Learn_tips/build/CMakeFiles/edit_cache.dir
+/home/jqz/Desktop/Learn_tips/build/CMakeFiles/rebuild_cache.dir

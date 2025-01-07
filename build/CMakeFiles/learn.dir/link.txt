@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/learn.dir/src/multithread.cpp.o CMakeFiles/learn.dir/src/main.cpp.o -o learn
